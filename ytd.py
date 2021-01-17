@@ -25,8 +25,6 @@ def yt_down():
 
 # In[ ]:
 
-
-yt_down()
 n = int(input("how many links do you want to download: "))
 for i in range(n):
     yt_down()
